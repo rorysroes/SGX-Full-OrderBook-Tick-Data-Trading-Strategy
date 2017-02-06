@@ -17,8 +17,8 @@
   ![png](Graph/depth.png)
  
 * Learning Model Trainer
-
-  * RandomForestClassifier\ExtraTreesClassifier\AdaBoostClassifier\GradientBoostingClassifier\SVM
+  
+  *  RandomForestClassifier\ExtraTreesClassifier\AdaBoostClassifier\GradientBoostingClassifier\SVM
   
   ![png](Graph/CV_Best_Model.png)
  
