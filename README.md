@@ -4,7 +4,7 @@
 
 * Framework to capture the dynamics of high-frequency limit order books.
 
-                   <img src="./Graph/pipline.png" width="650">
+     <img src="./Graph/pipline.png" width="650">
 
 * Feature Extractor
 
