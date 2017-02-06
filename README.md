@@ -17,6 +17,8 @@ In this project I used machine learning methods to capture the high-frequency li
   * Depth Ratio
   
     <img src="./Graph/depth.png" width="650">
+  
+  [Note] : [Model_Selection] (Model_Selection) 
  
 * Learning Model Trainer
   
