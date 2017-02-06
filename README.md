@@ -46,6 +46,6 @@ In this project I used machine learning methods to capture the high-frequency li
    
    [Note] : [Model_Selection] (Model_Selection) 
 
-[Note] : Detail http://140.119.164.203/dm_team11/
+[Detail] : http://140.119.164.203/dm_team11/
  
 
