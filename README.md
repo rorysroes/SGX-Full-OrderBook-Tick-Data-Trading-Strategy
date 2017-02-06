@@ -2,6 +2,6 @@
 
 Apply machine learning to high frequency trading
 
-![png](img/Quantity.png)
+`![png](graph/Quantity.png)
 
 
