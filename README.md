@@ -7,7 +7,12 @@
 ![png](Graph/pipline.png)
 
 * Feature Extractor
+
   * Rise Ratios
   
-![png](Graph/Price_B1A1.png)
+  ![png](Graph/Price_B1A1.png)
+
+  * Depth Ratios
+  
+  ![png](Graph/Depth.png)
 
