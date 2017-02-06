@@ -17,12 +17,12 @@
   ![png](Graph/depth.png)
  
 * Learning Model Trainer
-  * Choose five algorithms :
-  'RandomForestClassifier'
-  'ExtraTreesClassifier'
-  'AdaBoostClassifier'
-  'GradientBoostingClassifier'
-  'SVC'
-  ![png](Graph/CV_Best_Model.png)
+  * RandomForestClassifier
+  * ExtraTreesClassifier
+  * AdaBoostClassifier
+  * GradientBoostingClassifier
+  * SVM
+  
+  `![png](Graph/CV_Best_Model.png)
  
 
