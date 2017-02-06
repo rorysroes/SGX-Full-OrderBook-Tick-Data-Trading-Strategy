@@ -24,6 +24,5 @@
 *  Use best model to predict next 10 seconds
 ![png](Graph/CV_Best_Model.png)
 
-http://picasion.com/i/2mCpE
  
 
