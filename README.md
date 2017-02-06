@@ -17,8 +17,8 @@ In this project I used machine learning methods to capture the high-frequency li
   * Depth Ratio
   
     <img src="./Graph/depth.png" width="650">
-  
-  [Note] : [Model_Selection] (Model_Selection) 
+    
+    [Note] : [Feature_Selection] (Feature_Selection) 
  
 * Learning Model Trainer
   
@@ -31,14 +31,20 @@ In this project I used machine learning methods to capture the high-frequency li
 *  Use best model to predict next 10 seconds
 
    <img src="./Graph/CV_Best_Model.png" width="650">
+   
+   [Note] : [Model_Selection] (Model_Selection) 
 
 *  Prediction outcome
 
    <img src="./Graph/prediction.png" width="650">
+   
+   [Note] : [Model_Selection] (Model_Selection) 
 
 *  Profit & Loss
 
    <img src="./Graph/P_L.png" width="650">
+   
+   [Note] : [Model_Selection] (Model_Selection) 
 
 [Note] : Detail http://140.119.164.203/dm_team11/
  
