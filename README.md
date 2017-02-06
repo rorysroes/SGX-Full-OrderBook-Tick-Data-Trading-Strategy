@@ -14,5 +14,5 @@
 
   * Depth Ratios
   
-  ![png](Graph/Depth.png)
+  ![png](Graph/depth.png)
 
