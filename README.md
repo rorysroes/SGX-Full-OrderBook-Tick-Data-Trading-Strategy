@@ -6,8 +6,7 @@
   
 #### Overview
 
-In this project I implemented machine learning methods to capture the high-frequency limit order book dynamics and used simple trading strategy to get the P&L outcomes.
-
+In this project I used machine learning methods to capture the high-frequency limit order book dynamics and simple trading strategy to get the P&L outcomes.
 
 * Feature Extractor
 
