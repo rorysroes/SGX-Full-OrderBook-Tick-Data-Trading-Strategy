@@ -36,6 +36,6 @@
 
 ![png](Graph/P_L.png)
 
-
+[Note] : Detail http://140.119.164.203/dm_team11/
  
 
