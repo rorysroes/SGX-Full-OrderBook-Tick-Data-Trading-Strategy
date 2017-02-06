@@ -8,11 +8,21 @@
 
 * Feature Extractor
 
-  * Rise Ratios
+  * Rise Ratio
   
   ![png](Graph/Price_B1A1.png)
 
-  * Depth Ratios
+  * Depth Ratio
   
   ![png](Graph/depth.png)
+ 
+* Learning Model Trainer
+  * Choose five algorithms :
+  'RandomForestClassifier'
+  'ExtraTreesClassifier'
+  'AdaBoostClassifier'
+  'GradientBoostingClassifier'
+  'SVC'
+  ![png](Graph/CV_Best_Model.png)
+ 
 
