@@ -3,14 +3,17 @@
 #### Modeling High-Frequency Limit Order Book Dynamics Using Machine Learning 
 
 * Framework to capture the dynamics of high-frequency limit order books.
+
 ![png](Graph/pipline.png)
 
 * Feature Extractor
 
   * Rise Ratio
+  
   ![png](Graph/Price_B1A1.png)
 
   * Depth Ratio
+  
   ![png](Graph/depth.png)
  
 * Learning Model Trainer
@@ -22,7 +25,10 @@
   *  SVM
   
 *  Use best model to predict next 10 seconds
+
 ![png](Graph/CV_Best_Model.png)
+
+*  Prediction outcome
 
  
 
