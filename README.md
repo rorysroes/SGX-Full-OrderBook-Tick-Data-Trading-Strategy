@@ -30,5 +30,12 @@
 
 *  Prediction outcome
 
+![png](Graph/prediction.png)
+
+* Profit & Loss
+
+![png](Graph/P_L.png)
+
+
  
 
