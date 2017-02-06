@@ -6,5 +6,8 @@
 
 ![png](Graph/pipline.png)
 
-
+* Feature Extractor
+  * Rise Ratios
+  
+![png](Graph/Price_B1A1.png)
 
